@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Azizbek Avazov 👋
 
-<!--
-**AzizbekAvazov/AzizbekAvazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a keen interest in creating impactful solutions and exploring new technologies. I love to code, learn, and share knowledge with the community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on various exciting projects.
+- 🌱 I’m continuously learning and exploring new technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [avazovturin@gmail.com](mailto:avazovturin@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: React, Node.js, Express, Django
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Kubernetes, Jenkins
+
+## 📈 GitHub Stats
+![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizbekAvazov&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/azizbekavazov)
+- [Website](https://azizbek.co.uk)
+
+Thank you for visiting my profile! Have a great day! 😊
